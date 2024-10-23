@@ -1,0 +1,126 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "33b9f66a2437ce266eb303a5b2a6d239",
+      "info": {
+        "title": "Fleur",
+        "artist": "Altair",
+        "genre": "Rainforest",
+        "subtitles": [
+          "[SP Beginner]"
+        ],
+        "subartists": [
+          "mov: Aster, obj: OfficialAz3"
+        ],
+        "difficulty": 1,
+        "level": 1
+      },
+      "noteCount": 94,
+      "bpm": {
+        "init": 162,
+        "min": 162,
+        "median": 162,
+        "max": 162
+      },
+      "duration": 122.96296296296296,
+      "scratch": false,
+      "keys": "7K",
+      "file": "_0.bms"
+    },
+    {
+      "md5": "2716cde074f36fc5b29d9655f00e1425",
+      "info": {
+        "title": "Fleur",
+        "artist": "Altair",
+        "genre": "Rainforest",
+        "subtitles": [
+          "[SP Normal]"
+        ],
+        "subartists": [
+          "mov: Aster, obj: OfficialAz3"
+        ],
+        "difficulty": 2,
+        "level": 3
+      },
+      "noteCount": 242,
+      "bpm": {
+        "init": 162,
+        "min": 162,
+        "median": 162,
+        "max": 162
+      },
+      "duration": 122.96296296296296,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_1.bms"
+    },
+    {
+      "md5": "b0379bf50a4b5205c65d45fc44e5d1e3",
+      "info": {
+        "title": "Fleur",
+        "artist": "Altair",
+        "genre": "Rainforest",
+        "subtitles": [
+          "[SP Hyper]"
+        ],
+        "subartists": [
+          "mov: Aster, obj: OfficialAz3"
+        ],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 954,
+      "bpm": {
+        "init": 162,
+        "min": 162,
+        "median": 162,
+        "max": 162
+      },
+      "duration": 122.96296296296296,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_2.bms"
+    },
+    {
+      "md5": "464ec57d6e2a4f65fe29319ba69906eb",
+      "info": {
+        "title": "Fleur",
+        "artist": "Altair",
+        "genre": "Rainforest",
+        "subtitles": [
+          "[SP Another]"
+        ],
+        "subartists": [
+          "mov: Aster, obj: OfficialAz3"
+        ],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 2012,
+      "bpm": {
+        "init": 162,
+        "min": 162,
+        "median": 162,
+        "max": 162
+      },
+      "duration": 122.96296296296296,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_3.bms"
+    }
+  ],
+  "title": "Fleur",
+  "artist": "Altair",
+  "genre": "Rainforest",
+  "bpm": 162,
+  "song_url": "https://soundcloud.com/landoftheuncultured/fleur",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=146",
+  "artist_url": "https://x.com/AltairLumina",
+  "readme": "README.md",
+  "replaygain": "-11.6 dB",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "preview_offset": 64,
+  "preview_url": "bemuse-data/preview.mp3"
+}
